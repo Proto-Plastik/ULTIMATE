@@ -1,2 +1,2 @@
 # Printers
-Repository for all Proto-Plastik Open-Source 3D printers
+Repository for Proto-Plastik ULTIMATE 3D printer
